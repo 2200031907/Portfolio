@@ -76,6 +76,11 @@ a:hover {
   color: color-mix(in srgb, var(--accent-color), transparent 25%);
   text-decoration: none;
 }
+.swiper-button-prev,
+.swiper-button-next {
+  color: #000; /* Change color to match your theme */
+}
+
 
 h1,
 h2,
